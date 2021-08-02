@@ -3,25 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=Р , initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
     <main>
-        <h1>Рулев Георгий Николаевич</h1>
-        <h2>Ученик професии верстальщик</h2>
-        <section>
-            <h2>Мои навыки</h2>
-        <ul>
-            <li>
-                Их пока нет)))
-            </li>
-        </ul>
-        </section>
-        <section>
-            <p>Несмотря но отсутствие навыков в программировании я развиваюсь в этом направлении и достигну успеха!</p>
-        </section>
-<p>Hello World</p>
+        <h1>Р СѓР»РµРІ Р“РµРѕСЂРіРёР№ РќРёРєРѕР»Р°РµРІРёС‡</h1>
     </main>
+    <p title="РљРѕРјРїР°РЅРёРё РћРўРРЎ">РќР°Р»Р°РґС‡РёРє Р»РёС„С‚РѕРІРѕРіРѕ РѕР±РѕСЂСѓРґРѕРІР°РЅРёСЏ</p>
+    <section>
+        <h2>РњРѕРё РїСЂРµРёРјСѓС‰РµСЃС‚РІР°</h2>
+        <ul>
+            <li>Р¦РµР»РµСѓСЃС‚СЂРµРјР»РµРЅРЅС‹Р№</li>
+            <li>РћС‚РІРµС‚СЃС‚РІРµРЅРЅС‹Р№</li>
+            <li>Р»РµРіРєРѕ РѕР±СѓС‡Р°РµРјС‹Р№</li>
+        </ul>
+    </section>
+    <a href="/languages/html">Р’РµСЂРЅСѓС‚СЊСЃСЏ</a>
+    <form action="РћС‚Р·С‹РІС‹">
+        <textarea name="РћС‚Р·С‹РІС‹" id="" cols="30" rows="10"></textarea>
+    </form>
 </body>
 </html>
+
+<style>
+    h1 {color: aqua;font-size: 30px; text-align: center;}
+    h2 {color: blue;font-size: 20px;text-align: center;}
+    li {color: coral;font-size: 13px;}
+</style>
